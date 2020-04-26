@@ -20,6 +20,13 @@ public class Main {
         //Not valid(floating result): long result3 = longVal - floatVal;
         float result3 = longVal - floatVal; //long can convert to float
 
+        //Not valid(conversion is to double): float result4 = longVal - doubleVal;
+        float result4 = (float) (longVal - doubleVal);//cast to float
+
+        double result5 = longVal - doubleVal;
+
+        long result6 = (long) (shortVal - longVal + floatVal + doubleVal);//cast the equation to be the data type declared as
+
          System.out.println("Success!");
 
     }
