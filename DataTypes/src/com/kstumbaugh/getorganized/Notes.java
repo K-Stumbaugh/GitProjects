@@ -34,6 +34,7 @@ public class Notes {
 
     /*
     * This is going to be a lot of notes for the project that I am trying to do
-    *
+    Testing out GitHub again
+    * Keeping up to date with what I need to do in the Java course
     */
 }
