@@ -48,7 +48,10 @@ public class Main {
         int result3 = valA / valC * valD + valB;
         int result4 = valA / (valC * (valD + valB));
         System.out.println(result3);
-        System.out.println(result4);2
+        System.out.println(result4);
+
+        //implicit - widening
+        //explicit - widening or narrowing, use caution
 
     }
 }
