@@ -3,17 +3,6 @@ package com.kstumbaugh.getorganized;
 public class Main {
 
     public static void main(String[] args) {
-	/*
-	No rounding in Basic Math operators
-	13/5 = 2 and not 3 due to rounding
-
-    ++i = increments by 1 before returning value
-    --i = decrements by 1 before returning value
-
-	i++ = increments by 1 after returning value
-	i-- = decrements by 1 after returning value
-	*/
-
         //compound Assignment
         int myVal = 50;
         myVal -= 5;
@@ -25,14 +14,6 @@ public class Main {
         int val2 = 10;
         result /= val1  * val2;
         System.out.println(result);
-
-        /*
-        Order of operation:
-        Postfix i++ i--
-        Prefix --i ++i
-        Multi / * %
-        Add + -
-         */
 
         int valA = 21;
         int valB = 6;
@@ -55,3 +36,4 @@ public class Main {
 
     }
 }
+
