@@ -1,0 +1,27 @@
+1. Functions are advantageous to programs to allow to compartimentalize programs, allowing for more speed, functions only take memory when called?
+
+2. code in a function is only run when called
+
+3. def function()
+
+4. function defines what is going to happen, a function call passes a parameter to the function
+
+5. 1 global scope, infinite local scopes?
+
+6. variables with in the local scope get dropped once the function call returns
+
+7. return value is the value the function evaluates to. Return value can be part of an expression
+
+8. None
+
+9. global variable
+
+10. NoneType
+
+11. import - imports a module of functions available to you
+
+12. spam.bacon()
+
+13. place code in a try clause
+
+14. try is a way to test code that may create an error, except code block executes if there is an Error
