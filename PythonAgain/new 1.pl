@@ -1,1 +1,0 @@
-Trying to remember everything that comes to me about git
