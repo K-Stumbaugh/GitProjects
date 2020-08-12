@@ -1,1 +1,4 @@
-Trying to remember everything that comes to me about git
+what the fuck
+
+thhqw[peht
+[saidfhg
